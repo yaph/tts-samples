@@ -9,7 +9,11 @@ This repository provides text-to-speech (TTS) audio samples in MP3 format for a 
 
 ## MP3 Files
 
-The audio samples for each voice are organized in the `mp3` directory, categorized by language for easy navigation and access.
+The audio samples for each voice are organized in the [mp3](https://github.com/yaph/tts-samples/tree/main/mp3) directory, categorized by language for easy navigation and access.
+
+## Credits
+
+The datasets and mp3 files were created using the [edge-tts](https://github.com/rany2/edge-tts) Python package.
 
 ## License
 
