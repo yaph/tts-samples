@@ -5,7 +5,7 @@ import json
 
 voices = json.loads(Path('data/voices.json').read_text())
 voice_names = {}
-rows = []
+rows = [['Name', 'Gender', 'Language', 'Categories', 'Personalities', 'Speech Sample']]
 
 for sample in Path('mp3').glob('**/*.mp3'):
     lang, voice = sample.parent.name, sample.stem
