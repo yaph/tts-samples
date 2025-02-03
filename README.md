@@ -1,6 +1,6 @@
 # Text-to-Speech Language Samples
 
-This repository provides text-to-speech (TTS) audio samples in MP3 format for a wide range of languages, generated using the Microsoft Edge TTS engine. It can be used to explore the different voices and capabilities of the TTS engine across languages.
+This repository offers text-to-speech (TTS) audio samples in MP3 format for 70+ languages and over 300 voices, all generated using the Microsoft Edge TTS engine. [Explore this comprehensive overview](https://geeksta.net/tools/tts-samples/) to discover the various voices and features of the TTS engine across multiple languages.
 
 ## Data Files
 
