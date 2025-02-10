@@ -7,7 +7,7 @@ from pycountry import countries
 
 voices = json.loads(Path('data/voices.json').read_text())
 voice_names = {}
-rows = [['Name', 'Gender', 'Language', 'Country', 'Categories', 'Personalities', 'Speech Sample']]
+rows = [['Name', 'Gender', 'Language', 'Country', 'Categories', 'Personalities', 'Sample']]
 
 for sample in Path('mp3').glob('**/*.mp3'):
     lang, voice = sample.parent.name, sample.stem
