@@ -20,6 +20,7 @@ prompt_toolkit==3.0.50
 propcache==0.2.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pycountry==24.6.1
 Pygments==2.19.1
 srt==3.5.3
 stack-data==0.6.3
